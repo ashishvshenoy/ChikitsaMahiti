@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<array name="jaynagar">
+	<item>@string/jay_hosp1</item>
+	<item>@string/jay_hosp2</item>
+	<item>@string/jay_hosp3</item>
+	<item>@string/jay_hosp4</item>
+	
+	
+	</array>
+    
+</resources>

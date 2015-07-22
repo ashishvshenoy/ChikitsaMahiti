@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MyMap!</string>
+    <string name="app_name">ChikitsaMahiti</string>
+    <string name="around_you">Hospitals Around You</string>
+    <string name="exit">Exit</string>
+    <string name="area_select">Select Your Area</string>
+    <string name="area1">Jayanagar</string>
+    <string name="area2">Malleshwaram</string>
+    <string name="area3">Vijaynagar</string>
+    <string name="area4">Koramangala</string>
+    <string name="vij_hosp1">Sharavati</string>
+    <string name="vij_hosp2">Gurushree</string>
+    <string name="vij_hosp3">Wockhardt</string>
+    <string name="vij_hosp4">BGS</string>
+    <string name="jay_hosp1">The Ladys Hospital</string>
+    <string name="jay_hosp2">Ramakrishna Nursing Home</string>
+    <string name="jay_hosp3">The Bangalore Hospital</string>
+    <string name="jay_hosp4">Nimhans Hospital</string>
+    <string name="hosp_select">Select Your Hospital</string>
+    <string name="about_text">Chikitsa Mahiti is a help guide to obtaining the info about hospitals in and around your area. Developers : Ashish V Shenoy and Aditya K S</string>
+    <string name="about">About</string>
+</resources>

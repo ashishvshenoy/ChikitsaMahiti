@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:background="@color/background">
+    <ImageView android:id="@+id/imageView1" android:layout_width="wrap_content" android:src="@drawable/chimah_logo" android:layout_height="wrap_content" android:layout_gravity="center"></ImageView>
+    <TextView android:textAppearance="?android:attr/textAppearanceLarge" 
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/textView1" 
+    android:text="Hospital Info"
+    android:textColor = "@color/black" android:gravity="center|center_horizontal" android:layout_gravity="center"></TextView>
+    <TextView android:textColor = "@color/black" 
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/textView4" 
+    android:layout_marginTop="20dip"></TextView>
+    <TextView android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/textView2" 
+    android:text="Address:" 
+    android:textColor = "@color/black" android:layout_marginTop="30dip"></TextView>
+    <TextView android:id="@+id/textView3" 
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content"></TextView>
+    <TextView
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:textColor = "@color/black"
+    android:id="@+id/textView5" android:layout_marginTop="20dip"></TextView>
+    <LinearLayout android:id="@+id/linearLayout1" 
+    android:layout_width="match_parent" 
+    android:layout_height="wrap_content" android:layout_marginTop="50dip">
+        <ImageButton android:layout_width="wrap_content" 
+        android:id="@+id/call_button" 
+        android:layout_height="wrap_content" 
+        android:src="@drawable/call_icon" 
+        android:layout_gravity="center" 
+        android:layout_marginLeft="100dip"></ImageButton>
+        <ImageButton android:layout_width="wrap_content" 
+        android:id="@+id/map_button" 
+        android:layout_height="wrap_content" 
+        android:src="@drawable/map_icon" 
+        android:layout_gravity="center"></ImageButton>
+    </LinearLayout>
+    
+</LinearLayout>

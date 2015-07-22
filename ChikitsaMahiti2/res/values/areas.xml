@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<array name="area_name">
+	<item>@string/area1</item>
+	<item>@string/area2</item>
+	<item>@string/area3</item>
+	<item>@string/area4</item>
+	<item>Indiranagar</item>
+	<item>J P Nagar</item>
+	<item>Hebbal</item>
+	<item>Yelahanka</item>
+	
+	
+	</array>
+    
+</resources>

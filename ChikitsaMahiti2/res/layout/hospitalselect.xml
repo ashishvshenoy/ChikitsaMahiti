@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_height="fill_parent"
+android:layout_width="fill_parent"
+android:padding="30dip" 
+android:orientation="vertical"
+android:layout_gravity="center" android:background="@color/background">
+    <TextView android:layout_height="wrap_content" 
+    android:layout_gravity="center" 
+    android:layout_width="wrap_content" 
+    android:layout_marginBottom="25dip" 
+    android:textSize="24.5sp" android:text="@string/hosp_select"></TextView>
+
+<Spinner  
+android:id="@+id/hospital_spinner"
+android:layout_height="wrap_content" 
+android:layout_width="fill_parent"
+android:drawSelectorOnTop="true"
+android:isScrollContainer="true"
+android:clipToPadding="true"
+android:textColor="#063667"/>
+
+
+<Button android:text="Submit" 
+android:id="@+id/submitbutton2"
+android:layout_marginTop="40dip" 
+android:layout_height="wrap_content" android:layout_width="match_parent">
+</Button>
+
+    
+</LinearLayout>
